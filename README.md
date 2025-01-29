@@ -43,3 +43,8 @@ Dataset from Scikit-Learn: [Breast Cancer Wisconsin Dataset](https://scikit-lear
 Have any suggestions or feedback? Feel free to reach out via **Email** or send me a direct message on **LinkedIn**:  
 📩 Email: izzatifulqi.mail@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/izzati-fulqi/
+
+#Dibimbing #DSF #MachineLearning #DataScience #BreastCancerClassification #RandomForest #DecisionTree  
+#ScikitLearn #Python #AI #HealthcareAI #CancerDetection #MLforHealth  
+#DataAnalysis #MedicalAI #Classification #SupervisedLearning #OpenSource  
+
