@@ -44,7 +44,7 @@ Have any suggestions or feedback? Feel free to reach out via **Email** or send m
 📩 Email: izzatifulqi.mail@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/izzati-fulqi/
 
-#Dibimbing #DSF #MachineLearning #DataScience #BreastCancerClassification #RandomForest #DecisionTree  
+#Dibimbing #DSF #MachineLearning #DataScience #BreastCancerClassification #RandomForest
 #ScikitLearn #Python #AI #HealthcareAI #CancerDetection #MLforHealth  
-#DataAnalysis #MedicalAI #Classification #SupervisedLearning #OpenSource  
+#MedicalAI #Classification #SupervisedLearning #OpenSource  
 
