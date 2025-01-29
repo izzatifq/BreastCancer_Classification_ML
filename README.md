@@ -42,5 +42,4 @@ Dataset from Scikit-Learn: [Breast Cancer Wisconsin Dataset](https://scikit-lear
 **Let's Connect!**  
 Have any suggestions or feedback? Feel free to reach out via **Email** or send me a direct message on **LinkedIn**:  
 📩 Email: izzatifulqi.mail@gmail.com  
-🔗 LinkedIn: [[Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)  
-](https://www.linkedin.com/in/izzati-fulqi/) 
+🔗 LinkedIn: https://www.linkedin.com/in/izzati-fulqi/
